@@ -10,9 +10,6 @@ import java.util.Scanner;
  * 
  * @author Jantsankhorloo Amgalan <jamgalan@purdue.edu>
  * 
- * @lab L05
- * 
- * @version (Today's Date)
  *
  */
 public class PrefixGenerator {
