@@ -7,10 +7,6 @@ import java.util.Random;
  * prefix can have a fixed but arbitrary number of context words.
  *
  * @author Jantsankhorloo Amgalan <jamgalan@purdue.edu>
- * 
- * @lab L05
- * 
- * @version (Today's Date)
  *
  */
 public class Prefix {
