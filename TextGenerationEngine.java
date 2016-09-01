@@ -7,11 +7,6 @@ import java.util.Scanner;
  * This class prompts the user for an action and can dynamically generate
  * sentences if the program has already been trained.
  * 
- * @author (Your Name) <(YourEmail@purdue.edu)>
- * 
- * @lab (Your Lab Section)
- * 
- * @version (Today's Date)
  *
  */
 public class TextGenerationEngine {
